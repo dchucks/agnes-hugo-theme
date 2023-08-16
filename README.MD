@@ -6,7 +6,7 @@
 	<a href="https://github.com/dchucks/agnes-hugo-theme/blob/main/LICENSE">
 		<img src="https://img.shields.io/badge/license-GPL_3.0-green">
 	</a>
-	[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdchucks%2Fagnes-hugo-theme.svg?type=shield&issueType=license)]
+	<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fdchucks%2Fagnes-hugo-theme?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdchucks%2Fagnes-hugo-theme.svg?type=shield&issueType=license"/></a>
 </p>
 
 Agnes is a Landing Page theme ported from the free HTML template created by [Cruip](https://onepagelove.com/go/cruip). The design is lovely and features an intro screenshot preview area, product/service feature list and ends with three-tier pricing table.
@@ -70,7 +70,15 @@ If you want to contribute to Agnes to add a feature or improve the code, please 
 ## :stars: Show your support
 Please give a :star: if this project helped you!
 
-[![buy me a coffee](.github/bmc-button.png)](https://ko-fi.com/debashish)
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('debashish', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#00b9fe',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
 
 #### :scroll: License
 GPL-3.0 © [Debashish Chakrabarty](https://www.debashish.com)
