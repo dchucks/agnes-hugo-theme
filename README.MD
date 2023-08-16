@@ -4,7 +4,7 @@
 		<img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/934b7c29-32b9-4ed5-92e7-79cfba9a27b7/deploy-status">
 	</a>
 	<a href="https://github.com/dchucks/agnes-hugo-theme/blob/main/LICENSE">
-		<img src="https://img.shields.io/badge/license-GNU-green">
+		<img src="https://img.shields.io/badge/license-GPL_3.0-green">
 	</a>
 	[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdchucks%2Fagnes-hugo-theme.svg?type=shield&issueType=license)]
 </p>
@@ -73,4 +73,4 @@ Please give a :star: if this project helped you!
 [![buy me a coffee](.github/bmc-button.png)](https://ko-fi.com/debashish)
 
 #### :scroll: License
-MIT © [Debashish Chakrabarty](https://www.debashish.com)
+GPL-3.0 © [Debashish Chakrabarty](https://www.debashish.com)
