@@ -11,6 +11,9 @@
 
 Agnes is a Landing Page theme ported from the free HTML template created by [Cruip](https://onepagelove.com/go/cruip). The design is lovely and features an intro screenshot preview area, product/service feature list and ends with three-tier pricing table.
 
+You can check the [**example site**](https://sponge-bob.netlify.app/).
+<img src="https://github.com/dchucks/agnes-hugo-theme/blob/main/images/screenshot.jpg" alt="Agnes Screenshot for example site" width="600" height="auto">
+
 # Getting started
 We are assuming that you have already installed Hugo on your computer [follow the Quick start guide](https://gohugo.io/getting-started/quick-start/) if not).
 
@@ -61,24 +64,16 @@ echo "theme = 'Agnes'" >> hugo.toml
 hugo server
 ```
 
-## Example config.toml
+### Example config.toml
 An example site [Config file](https://github.com/dchucks/agnes-hugo-theme/blob/main/exampleSite/config.toml) can be found under the theme's `exampleSite` folder. Just update the content in the file relevent to your website and you should be done.
 
 ## Contributing
 If you want to contribute to Agnes to add a feature or improve the code, please open an [issue](https://github.com/dchucks/agnes-hugo-theme/issues) or make a [pull request](https://github.com/dchucks/agnes-hugo-theme/pulls).
 
-## :stars: Show your support
+## Show your support
 Please give a :star: if this project helped you!
 
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('debashish', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#00b9fe',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
+[![buy me a coffee](https://storage.ko-fi.com/cdn/cup-border.png)](https://ko-fi.com/debashish)
 
-#### :scroll: License
+## License
 GPL-3.0 © [Debashish Chakrabarty](https://www.debashish.com)
