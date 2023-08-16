@@ -1,0 +1,19 @@
+name = "Agnes"
+license = "MIT"
+licenselink = "Link to theme's license"
+description = "Agnes is a Landing Page theme ported from the free HTML template created by [Cruip](https://onepagelove.com/go/cruip). The design is lovely and features an intro screenshot preview area, product/service feature list and ends with three-tier pricing table."
+
+# The home page of the theme, where the source can be found.
+homepage = "https://github.com/gohugoio/gohugoioTheme"
+
+# If you have a running demo of the theme.
+demosite = "https://gohugo.io"
+
+tags = ["Landing", "Light", "Company", "Minimal"]
+features = ["Single Page Website", "Blazing Fast", "Easy to deply and configure"]
+
+# If the theme has a single author
+[author]
+    name = "Debashish Chakrabarty"
+    homepage = "https://www.debashish.com"
+

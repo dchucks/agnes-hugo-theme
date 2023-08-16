@@ -1,0 +1,22 @@
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">		
+		{{ with .Site.Params}}
+		{{ "<!-- google analytics  tag (gtag.js)-->" | safeHTML }}
+		<script async src="https://www.googletagmanager.com/gtag/js?id={{ .google_analytics_id }}"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', '{{ .google_analytics_id }}');
+		</script>
+		{{ end }}
+		{{ $title := print .Site.Title " | " .Title }}
+		{{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
+		<title>{{ $title }}</title>
+		<link href="https://fonts.googleapis.com/css?family=Hind+Vadodara:400,700|Mukta:500,700" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="/css/style.css">		
+		<script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
+	</head>

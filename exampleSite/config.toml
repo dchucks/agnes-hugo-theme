@@ -1,0 +1,92 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Agnes Site"
+theme = "Agnes"
+
+[params]
+	dateFormat = "Jan 2, 2023" 
+	authorName = "Ported to Hugo by Debashish"
+	google_analytics_id = "GA-"
+	
+[menu]
+	[[menu.main]]
+		Name = "Contact"
+		URL = "#"
+		weight = 1
+	
+	[[menu.main]]
+		Name = "About us"
+		URL = "#"
+		weight = 2
+	
+	[[menu.main]]
+		Name = "FAQ's"
+		URL = "#"
+		weight = 3
+	
+	[[menu.main]]
+		Name = "Support"
+		URL = "#"
+		weight = 4
+		
+[params.social]
+	TwitterURL = "https://twitter.com/podbharati"
+	GoogleURL = "http://google.com"
+	FacebookURL = "https://facebook.com/podbharati"
+		
+[params.content]
+	LeadTitle = "Landing template for Startups"
+	LeadDescription = "Our landing page template works for all the devices, so you only have to setup it once, and get beautiful results forever."
+	ButtonCaption = "Pricing & Plans"
+	ButtonURL = "http://google.com"
+
+################### Feature Columns (do not exceed 4) ####################
+
+[[params.feature]]
+	FeatureTitle = "Feature 1"
+	FeatureDescription = "A pseudo-Latin text used in web design, layout, and printing in place of English to emphasise design elements."
+	FeatureImage = "images/feature-1.png"
+	
+[[params.feature]]
+	FeatureTitle = "Feature 2"
+	FeatureDescription = "A pseudo-Latin text used in web design, layout, and printing in place of English to emphasise design elements."
+	FeatureImage = "images/feature-2.png"
+
+[[params.feature]]
+	FeatureTitle = "Feature 3"
+	FeatureDescription = "A pseudo-Latin text used in web design, layout, and printing in place of English to emphasise design elements."
+	FeatureImage = "images/feature-3.png"
+	
+[[params.feature]]
+	FeatureTitle = "Feature 4"
+	FeatureDescription = "A pseudo-Latin text used in web design, layout, and printing in place of English to emphasise design elements."
+	FeatureImage = "images/feature-4.png"
+	
+################### Pricing Columns (do not exceed 3) ####################
+
+[[params.pricing]]
+	PricingTitle = "Starter"
+	PricingRate = "27"	
+	ButtonCaption = "Get Early Access"
+	[[features]]
+		Description = "First Lorem ipsum is common text"
+	[[features]]
+		Description = "Second Lorem ipsum is common text"
+
+[[params.pricing]]
+	PricingTitle = "Professional"
+	PricingRate = "97"
+	ButtonCaption = "Get Earlier Access"
+	[[features]]
+		Description = "First Lorem ipsum is common text"
+	[[features]]
+		Description = "Second Lorem ipsum is common text"
+	
+[[params.pricing]]
+	PricingTitle = "Business"
+	PricingRate = "147"
+	ButtonCaption = "Get Earliest Access"
+	[[features]]
+		Description = "First Lorem ipsum is common text"
+	[[features]]
+		Description = "Second Lorem ipsum is common text"
