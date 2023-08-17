@@ -12,7 +12,8 @@
 Agnes is a Landing Page theme ported from the free HTML template created by [Cruip](https://onepagelove.com/go/cruip). The design is lovely and features an intro screenshot preview area, product/service feature list and ends with three-tier pricing table.
 
 You can check the [**example site**](https://sponge-bob.netlify.app/).
-<img src="https://github.com/dchucks/agnes-hugo-theme/blob/main/images/screenshot.jpg" alt="Agnes Screenshot for example site" width="600" height="auto">
+
+<p><img src="https://github.com/dchucks/agnes-hugo-theme/blob/main/images/screenshot.jpg" alt="Agnes Screenshot for example site" align="center" width="600" height="auto"></p>
 
 # Getting started
 We are assuming that you have already installed Hugo on your computer [follow the Quick start guide](https://gohugo.io/getting-started/quick-start/) if not).
