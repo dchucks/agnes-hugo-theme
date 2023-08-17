@@ -73,8 +73,7 @@ If you want to contribute to Agnes to add a feature or improve the code, please 
 
 ## Show your support
 Please give a :star: if this project helped you!
-
-[![buy me a coffee](https://storage.ko-fi.com/cdn/cup-border.png)](https://ko-fi.com/debashish)
+<p><a href="https://ko-fi.com/debashish"><img src="https://storage.ko-fi.com/cdn/cup-border.png" alt="Buy Me a Coffee!" align="center" width="100px" height="auto"></a> Buy me a Coffee ;)</p>
 
 ## License
 GPL-3.0 © [Debashish Chakrabarty](https://www.debashish.com)
