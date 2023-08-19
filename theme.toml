@@ -1,13 +1,13 @@
 name = "Agnes"
-license = "MIT"
-licenselink = "Link to theme's license"
-description = "Agnes is a Landing Page theme ported from the free HTML template created by [Cruip](https://onepagelove.com/go/cruip). The design is lovely and features an intro screenshot preview area, product/service feature list and ends with three-tier pricing table."
+license = "GPL-3.0"
+licenselink = "https://github.com/dchucks/agnes-hugo-theme/blob/main/LICENSE"
+description = "Agnes is a Landing Page theme ported from the free HTML template created by <a href="https://onepagelove.com/go/cruip">Cruip</a>. The design is lovely and features an intro screenshot preview area, product/service feature list and ends with three-tier pricing table."
 
 # The home page of the theme, where the source can be found.
-homepage = "https://github.com/gohugoio/gohugoioTheme"
+homepage = "https://github.com/dchucks/agnes-hugo-theme"
 
 # If you have a running demo of the theme.
-demosite = "https://gohugo.io"
+demosite = "https://github.com/dchucks/agnes-hugo-theme"
 
 tags = ["Landing", "Light", "Company", "Minimal"]
 features = ["Single Page Website", "Blazing Fast", "Easy to deply and configure"]
@@ -16,4 +16,3 @@ features = ["Single Page Website", "Blazing Fast", "Easy to deply and configure"
 [author]
     name = "Debashish Chakrabarty"
     homepage = "https://www.debashish.com"
-
