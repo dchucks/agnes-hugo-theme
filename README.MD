@@ -9,7 +9,7 @@
 	<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fdchucks%2Fagnes-hugo-theme?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdchucks%2Fagnes-hugo-theme.svg?type=shield&issueType=license"/></a>
 </p>
 
-Agnes is a Landing Page theme ported from the free HTML template created by [Cruip](https://onepagelove.com/go/cruip). The design is lovely and features an intro screenshot preview area, product/service feature list and ends with three-tier pricing table.
+Agnes is a Landing Page theme ported from the free HTML template created by [Cruip](https://onepagelove.com/agnes). The design is lovely and features an intro screenshot preview area, product/service feature list and ends with three-tier pricing table.
 
 Check out the [**sample site**](https://github.com/dchucks/agnes-hugo-theme).
 
