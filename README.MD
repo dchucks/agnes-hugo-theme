@@ -11,7 +11,7 @@
 
 Agnes is a Landing Page theme ported from the free HTML template created by [Cruip](https://onepagelove.com/agnes). The design is lovely and features an intro screenshot preview area, product/service feature list and ends with three-tier pricing table.
 
-Check out the [**sample site**](https://github.com/dchucks/agnes-hugo-theme).
+Check out the [**sample site**](https://agnes-hugo-sample-site.netlify.app/).
 
 <p><img src="https://github.com/dchucks/agnes-hugo-theme/blob/main/images/screenshot.jpg" alt="Agnes Screenshot for example site" align="center" width="600" height="auto"></p>
 
