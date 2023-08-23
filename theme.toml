@@ -7,7 +7,7 @@ description = 'Agnes is a Landing Page theme ported from the free HTML template 
 homepage = "https://github.com/dchucks/agnes-hugo-theme"
 
 # If you have a running demo of the theme.
-demosite = "https://github.com/dchucks/agnes-hugo-theme"
+demosite = "https://agnes-hugo-sample-site.netlify.app/"
 
 tags = ["Landing", "Light", "Company", "Minimal"]
 features = ["Single Page Website", "Blazing Fast", "Easy to deply and configure"]
