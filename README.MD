@@ -1,7 +1,7 @@
 # Agnes
 <p>
-	<a href="https://app.netlify.com/sites/sponge-bob/deploys">
-		<img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/934b7c29-32b9-4ed5-92e7-79cfba9a27b7/deploy-status">
+	<a href="https://app.netlify.com/sites/agnes-hugo-sample-site/deploys">
+		<img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/a85b2422-de3b-4e3b-a2d8-79acd2076648/deploy-status">
 	</a>
 	<a href="https://github.com/dchucks/agnes-hugo-theme/blob/main/LICENSE">
 		<img src="https://img.shields.io/badge/license-GPL_3.0-green">
