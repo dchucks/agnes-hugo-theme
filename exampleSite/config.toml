@@ -6,6 +6,7 @@ theme = "agnes-hugo-theme"
 [params]
 	dateFormat = "Jan 2, 2023" 
 	authorName = "Ported to Hugo by Debashish"
+	currencySymbol = "$"
 	google_analytics_id = "GA-"
 	
 [menu]
