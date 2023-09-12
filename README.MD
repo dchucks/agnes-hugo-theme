@@ -16,7 +16,7 @@ Check out the [**sample site**](https://agnes-hugo-sample-site.netlify.app/).
 <p><img src="https://raw.githubusercontent.com/dchucks/agnes-hugo-theme/master/images/screenshot.jpg" alt="Agnes Screenshot for example site" align="center" width="600" height="auto"></p>
 
 # Getting started
-We are assuming that you have already installed Hugo on your computer [follow the Quick start guide](https://gohugo.io/getting-started/quick-start/) if not).
+We are assuming that you have already installed Hugo on your computer [follow the Quick start guide](https://gohugo.io/getting-started/quick-start/) if not.
 
 ## Create your Hugo website
 ```
