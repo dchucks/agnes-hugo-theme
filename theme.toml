@@ -1,7 +1,7 @@
 name = "Agnes"
 license = "GPL-3.0"
 licenselink = "https://github.com/dchucks/agnes-hugo-theme/blob/main/LICENSE"
-description = 'Agnes is a Landing Page theme ported from the free HTML template created by <a href="https://onepagelove.com/agnes">Cruip</a>. The design is lovely and features an intro screenshot preview area, product/service feature list and ends with three-tier pricing table.'
+description = 'Agnes is a landing page Hugo theme ported from the free HTML template designed by Cruip, a marketplace of Tailwind CSS templates. The design is lovely and features an intro screenshot preview, a product/service list, and a three-tier pricing table.'
 
 # The home page of the theme, where the source can be found.
 homepage = "https://github.com/dchucks/agnes-hugo-theme"
@@ -10,7 +10,7 @@ homepage = "https://github.com/dchucks/agnes-hugo-theme"
 demosite = "https://agnes-hugo-sample-site.netlify.app/"
 
 tags = ["Landing", "Light", "Company", "Minimal"]
-features = ["Single Page Website", "Blazing Fast", "Easy to deply and configure"]
+features = ["Single Page Website", "Blazing Fast", "Easy to deploy and configure"]
 
 # If the theme has a single author
 [author]
