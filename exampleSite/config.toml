@@ -68,6 +68,7 @@ theme = "agnes-hugo-theme"
 	PricingTitle = "Starter"
 	PricingRate = "27"	
 	ButtonCaption = "Get Early Access"
+ 	ButtonURL = "https://example.com/early-access.html"
 	[[params.pricing.Features]]
 		Description = "Lorem ipsum is common text"
 	[[params.pricing.Features]]
@@ -81,6 +82,7 @@ theme = "agnes-hugo-theme"
 	PricingTitle = "Professional"
 	PricingRate = "97"
 	ButtonCaption = "Get Earlier Access"
+ 	ButtonURL = "https://example.com/earlier-access.html"
 	[[params.pricing.Features]]
 		Description = "Lorem ipsum is common text"
 	[[params.pricing.Features]]
@@ -94,6 +96,7 @@ theme = "agnes-hugo-theme"
 	PricingTitle = "Business"
 	PricingRate = "147"
 	ButtonCaption = "Get Earliest Access"
+ 	ButtonURL = "https://example.com/earliest-access.html"
 	[[params.pricing.Features]]
 		Description = "Lorem ipsum is common text"
 	[[params.pricing.Features]]
