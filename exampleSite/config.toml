@@ -38,7 +38,7 @@ theme = "agnes-hugo-theme"
 	LeadTitle = "Landing template for Startups"
 	LeadDescription = "Our landing page template works for all the devices, so you only have to setup it once, and get beautiful results forever."
 	ButtonCaption = "Pricing & Plans"
-	ButtonURL = "http://google.com"
+	ButtonURL = "#pricing"
 
 ################### Feature Columns (do not exceed 4) ####################
 
@@ -67,6 +67,7 @@ theme = "agnes-hugo-theme"
 [[params.pricing]]
 	PricingTitle = "Starter"
 	PricingRate = "27"	
+	PricingDuration = "/mo"	
 	ButtonCaption = "Get Early Access"
  	ButtonURL = "https://example.com/early-access.html"
 	[[params.pricing.Features]]
@@ -81,6 +82,7 @@ theme = "agnes-hugo-theme"
 [[params.pricing]]
 	PricingTitle = "Professional"
 	PricingRate = "97"
+	PricingDuration = "/day"	
 	ButtonCaption = "Get Earlier Access"
  	ButtonURL = "https://example.com/earlier-access.html"
 	[[params.pricing.Features]]
@@ -95,6 +97,7 @@ theme = "agnes-hugo-theme"
 [[params.pricing]]
 	PricingTitle = "Business"
 	PricingRate = "147"
+	PricingDuration = "/yr"	
 	ButtonCaption = "Get Earliest Access"
  	ButtonURL = "https://example.com/earliest-access.html"
 	[[params.pricing.Features]]
