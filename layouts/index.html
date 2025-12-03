@@ -96,7 +96,7 @@
 				<div class="section-square"></div>
 				<div class="container">
 					<div class="pricing-inner section-inner has-top-divider">
-                        <h2 class="section-title mt-0 text-center">Pricing</h2>
+                        <h2 id="pricing" class="section-title mt-0 text-center">Pricing</h2>
                         <div class="pricing-tables-wrap">
 							{{ range site.Params.pricing }}
                             <div class="pricing-table">
@@ -104,7 +104,7 @@
                                     <div class="pricing-table-main">
                                         <div class="pricing-table-header is-revealing">
                                             <div class="pricing-table-title mt-12 mb-8">{{ .PricingTitle }}</div>
-                                            <div class="pricing-table-price mb-32 pb-24"><span class="pricing-table-price-currency h4">$</span><span class="pricing-table-price-amount h2">{{ .PricingRate }}</span>/mo</div>
+                                            <div class="pricing-table-price mb-32 pb-24"><span class="pricing-table-price-currency h4">$</span><span class="pricing-table-price-amount h2">{{ .PricingRate }}</span>{{ .PricingDuration }}</div>
                                         </div>
                                         <ul class="pricing-table-features list-reset text-xs mt-24 mb-56">
 											{{ range .Features }}
